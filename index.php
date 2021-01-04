@@ -22,13 +22,13 @@ and open the template in the editor.
         <thead>
             <tr>
                 <th>Name</th>
-                <th>Position</th>
+                <th>Genero</th>
             </tr>
         </thead>
         <tfoot>
             <tr>
                 <th>Name</th>
-                <th>Position</th>
+                <th>Genero</th>
             </tr>
         </tfoot>
     </table>
@@ -60,15 +60,7 @@ and open the template in the editor.
                 "oAria": {
                     "sSortAscending": ": Activar para ordenar la columna de manera ascendente",
                     "sSortDescending": ": Activar para ordenar la columna de manera descendente"
-                },
-                "aoColumns": [
-                    null,
-                    {"sType": "date-uk"},
-                    {"sType": "date-uk"},
-                    null,
-                    null,
-                    null
-                ]
+                }
 
             },
            
